@@ -2639,16 +2639,23 @@ export default function DashboardSMA() {
         </div>
       </main>
       <footer className="relative z-20 border-t border-slate-800/80 bg-slate-950 py-6 text-center">
-        <p className="text-[10px] text-slate-500 font-mono tracking-widest mt-2 uppercase">
-          Filière <span className="text-amber-500">Robotique et Objets Connectés (ROC)</span>
-        </p>
-        <div className="mt-6 inline-flex flex-col items-center">
-          <div className="w-12 h-[1px] bg-slate-800 mb-4"></div>
-          <p className="text-[10px] text-slate-500 uppercase tracking-widest flex items-center gap-2">
-            Système déployé par <span className="font-bold text-cyan-400 bg-cyan-950/30 px-2 py-1 rounded border border-cyan-900/50">Khawla Gueddouri</span>
-          </p>
-        </div>
-      </footer>
+  <div className="max-w-2xl mx-auto px-4">
+    <div className="flex items-center justify-center gap-2 mb-2">
+      <div className="w-8 h-8 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-lg flex items-center justify-center">
+        <span className="text-white font-bold text-sm">KG</span>
+      </div>
+      <div>
+        <p className="text-sm font-bold text-slate-200">Khawla Gueddouri</p>
+        <p className="text-[10px] text-slate-400">Passionnée par l'IA et les Systèmes Multi-Agents</p>
+      </div>
+    </div>
+    <div className="mt-4 pt-4 border-t border-slate-800">
+      <p className="text-[10px] text-slate-500">
+        Projet personnel open source • 2024
+      </p>
+    </div>
+  </div>
+</footer>
     </div>
   );
 }
