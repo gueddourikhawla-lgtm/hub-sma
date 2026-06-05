@@ -1,34 +1,38 @@
-# 🤖 Hub SMA - Systèmes Multi-Agents
+# 🤖 Hub SMA - Ma Ressource sur les Systèmes Multi-Agents
 
-> Dashboard interactif et éducatif sur les Systèmes Multi-Agents et l'IA Distribuée
+> Dashboard interactif créé pour apprendre et partager les concepts des SMA
 
 ## 🔗 Liens
 
 - **🌐 Site en ligne** : [hub-sma.vercel.app](https://hub-sma.vercel.app)
 - **📊 Diagrammes interactifs** : [Voir sur Mapify](https://mapify.so/share-link/qQYaBZT3MI)
-- **📱 Démo** : Teste le site en ligne !
+- **💻 Code source** : GitHub
 
 ---
 
-## 📖 Description
+## 💡 Pourquoi ce projet ?
 
-**Hub SMA** est une plateforme web interactive présentant les concepts fondamentaux des **Systèmes Multi-Agents (SMA)** et de l'**Intelligence Artificielle Distribuée**.
+Lorsque j'ai commencé à m'intéresser aux **Systèmes Multi-Agents (SMA)** et à l'**Intelligence Artificielle Distribuée**, j'ai eu beaucoup de mal à trouver des ressources claires et structurées sur le sujet.
 
-Ce projet a été développé dans le cadre de ma formation à l'**ENIAD** (École Nationale de l'Intelligence Artificielle et du Digital), filière **Robotique et Objets Connectés (ROC)**.
+**J'ai donc décidé de créer ma propre plateforme** pour :
+- 📚 Centraliser toutes les bases et concepts fondamentaux
+- 🎨 Présenter l'information de manière visuelle et interactive
+- 📖 Avoir une référence personnelle complète
+- 🌍 Partager ces connaissances avec d'autres personnes
 
 ---
 
 ## ✨ Fonctionnalités
 
 - 🎨 **Interface moderne** : Dark mode futuriste avec Tailwind CSS
-- 📊 **6 chapitres complets** : Contenu pédagogique structuré
-- 🖼️ **Schémas interactifs** : Visualisations pour chaque concept
-- 📱 **Responsive** : Compatible tous appareils
-- 🚀 **Navigation fluide** : Interface intuitive et rapide
+- 📊 **6 chapitres complets** : Tous les concepts essentiels des SMA
+- 🖼️ **Schémas interactifs** : Visualisations pour mieux comprendre
+- 📱 **Responsive** : Accessible partout
+- 🚀 **Navigation intuitive** : Menu interactif
 
 ---
 
-## 📚 Contenu des Chapitres
+## 📚 Contenu
 
 ### Chapitre I - Introduction
 - Intelligence Artificielle Distribuée (DAI)
@@ -39,7 +43,7 @@ Ce projet a été développé dans le cadre de ma formation à l'**ENIAD** (Éco
 ### Chapitre II - Agents
 - Autonomie et Perception
 - Action et Communication
-- Modèle EIO (Environnement, Interaction, Organisation)
+- Modèle EIO
 
 ### Chapitre III - Types d'Agents
 - Agents Réactifs
@@ -50,12 +54,11 @@ Ce projet a été développé dans le cadre de ma formation à l'**ENIAD** (Éco
 - Architecture de la plateforme
 - AMS et DF
 - Communication ACL/FIPA
-- Cycle de vie des agents
 
 ### Chapitre V - Communication
 - Stigmergie
 - Télémétrie
-- FIPA-ACL (structure et performatifs)
+- FIPA-ACL
 
 ### Chapitre VI - Agentic AI
 - IA Générative & Prompt Engineering
@@ -72,10 +75,10 @@ Ce projet a été développé dans le cadre de ma formation à l'**ENIAD** (Éco
 | Technologie | Usage |
 |------------|-------|
 | **React 18** | Framework UI |
-| **Vite** | Build tool & dev server |
+| **Vite** | Build tool |
 | **Tailwind CSS** | Styling |
 | **Lucide React** | Icônes |
-| **Vercel** | Hébergement & déploiement |
+| **Vercel** | Déploiement |
 
 ---
 
@@ -93,6 +96,3 @@ npm install
 
 # Lancer en développement
 npm run dev
-
-# Build pour production
-npm run build
