@@ -2639,9 +2639,6 @@ export default function DashboardSMA() {
         </div>
       </main>
       <footer className="relative z-20 border-t border-slate-800/80 bg-slate-950 py-6 text-center">
-        <p className="text-xs font-black text-slate-300 uppercase tracking-[0.2em]">
-          École Nationale de l'Intelligence Artificielle et du Digital <span className="text-cyan-500 opacity-50">/</span> ENIAD
-        </p>
         <p className="text-[10px] text-slate-500 font-mono tracking-widest mt-2 uppercase">
           Filière <span className="text-amber-500">Robotique et Objets Connectés (ROC)</span>
         </p>
