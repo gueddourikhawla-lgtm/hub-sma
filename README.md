@@ -2,8 +2,6 @@
 
 > Dashboard interactif et éducatif sur les Systèmes Multi-Agents et l'IA Distribuée
 
-![Dashboard SMA](./public/screenshot.png)
-
 ## 🔗 Liens
 
 - **🌐 Site en ligne** : [hub-sma.vercel.app](https://hub-sma.vercel.app)
