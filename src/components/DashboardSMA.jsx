@@ -2646,12 +2646,12 @@ export default function DashboardSMA() {
       </div>
       <div>
         <p className="text-sm font-bold text-slate-200">Khawla Gueddouri</p>
-        <p className="text-[10px] text-slate-400">Passionnée par l'IA et les Systèmes Multi-Agents</p>
+        <p className="text-[10px] text-slate-400">IA • Robotique • IoT</p>
       </div>
     </div>
     <div className="mt-4 pt-4 border-t border-slate-800">
       <p className="text-[10px] text-slate-500">
-        Projet personnel open source • 2024
+        Projet personnel open source • 2026
       </p>
     </div>
   </div>
